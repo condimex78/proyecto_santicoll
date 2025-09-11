@@ -10,14 +10,14 @@ body {
   max-width: 500px;
   margin: 40px auto;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #7decff;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 h1, h2 {
   text-align: center;
-  color: #00796b;
+  color: #04ff14;
 }
 
 form {
@@ -40,7 +40,7 @@ input, select {
 button {
   margin-top: 20px;
   padding: 10px;
-  background-color: #a21919;
+  background-color: #fc0808;
   color: white;
   border: none;
   border-radius: 5px;
